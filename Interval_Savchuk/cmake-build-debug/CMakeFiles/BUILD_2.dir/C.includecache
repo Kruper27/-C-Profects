@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Intarval.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Mult_Int.c
+Intarval.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Intarval.h
+math.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/math.h
+

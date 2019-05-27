@@ -1,0 +1,3 @@
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/cmake-build-debug/CMakeFiles/Test_.dir
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/cmake-build-debug/CMakeFiles/rebuild_cache.dir

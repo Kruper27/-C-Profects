@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Intarval.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/math.h
+stdbool.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/stdbool.h
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Quadrat_Savchuk.h
+Set_of_Int.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Set_of_Int.h
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Quedra.c
+Quadrat_Savchuk.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Quadrat_Savchuk.h
+Savchuk_ Set_of_Int.c
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Savchuk_ Set_of_Int.c
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Savchuk_ Set_of_Int.c
+Set_of_Int.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Set_of_Int.h
+Savchuk_Interval.c
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Savchuk_Interval.c
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Savchuk_Interval.c
+Intarval.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Intarval.h
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Savchuk_Interval_Main.c
+Intarval.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Intarval.h
+Set_of_Int.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Set_of_Int.h
+Quadrat_Savchuk.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Quadrat_Savchuk.h
+Quedra.c
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Quedra.c
+
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Set_of_Int.h
+Intarval.h
+C:/Users/Senior Sanyola/CLionProjects/Interval_Sav/Intarval.h
+
