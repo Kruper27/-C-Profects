@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/Plant.cpp
+Plant.h
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/Plant.h
+utility
+-
+
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/Plant.h
+iostream
+-
+vector
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/vector
+
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/Plant_main.cpp
+iostream
+-
+Plant.h
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/Plant.h
+

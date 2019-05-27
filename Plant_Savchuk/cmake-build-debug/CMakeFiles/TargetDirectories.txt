@@ -1,0 +1,3 @@
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/cmake-build-debug/CMakeFiles/CPlusPlusProjecy.dir
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Senior Sanyola/CLionProjects/CPlusPlusProjecy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
